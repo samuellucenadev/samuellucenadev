@@ -1,4 +1,8 @@
  ##
+ 🚀 Ola. Me chamo Samuel Lucena, seja bem-vindo ao meu perfil, aqui eu estou sempre atualizando para mostrar o conhecimento que venho adquirindo, 1% todo dia e vamos alcançar o que tanto sonhamos.
+ 
+ 🌠 Sou um desenvolvedor front-end em constante evolução. 
+ 
 <div align="center">
   <a href="https://github.com/samuellucenadev">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=samuellucenadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
